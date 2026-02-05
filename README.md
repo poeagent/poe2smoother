@@ -1,4 +1,3 @@
-# poe2smoother
 🛠 Poesmoother1-2: Visual Asset Management and Efficiency Utility for PoE & PoE 2
 Path of Exile is known for its high-fidelity visual effects and complex rendering requirements 🎇. During intensive encounters, the sheer volume of on-screen elements can challenge various hardware configurations 🖥️. Poesmoother1-2 is an open-source utility designed to refine visual throughput and manage asset density for a more consistent experience in both Path of Exile and the upcoming Path of Exile 2 🎮.
 
