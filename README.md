@@ -1,3 +1,4 @@
+<centr><img width="701" height="404" alt="imaggge" src="https://github.com/user-attachments/assets/a16a9111-648d-4221-884e-5ab7b0c2bca5" /> <centr />
 <hr />
 <h3>🛠 Poesmoother1-2: Visual Asset Management and Efficiency Utility for PoE &amp; PoE 2</h3>
 <p>Path of Exile is known for its high-fidelity visual effects and complex rendering requirements 🎇. During intensive encounters, the sheer volume of on-screen elements can challenge various hardware configurations 🖥️. <strong>Poesmoother1-2</strong> is an open-source utility designed to refine visual throughput and manage asset density for a more consistent experience in both Path of Exile and the upcoming Path of Exile 2 🎮.</p>
@@ -12,7 +13,6 @@
 <li>
 <p><strong>💡 Luminance and Post-Processing Management:</strong>
     Excessive lighting (Bloom) can often impact visual legibility 🔅. Poesmoother1-2 provides tools to normalize lighting levels, resulting in a more defined and clear visual output during extended sessions 🌙.</p>
-    <img width="701" height="404" alt="imaggge" src="https://github.com/user-attachments/assets/a16a9111-648d-4221-884e-5ab7b0c2bca5" />
 </li>
 <li>
 <p><strong>🔍 Refined Visual Legibility:</strong>
