@@ -12,6 +12,9 @@
 <li>
 <p><strong>💡 Luminance and Post-Processing Management:</strong>
     Excessive lighting (Bloom) can often impact visual legibility 🔅. Poesmoother1-2 provides tools to normalize lighting levels, resulting in a more defined and clear visual output during extended sessions 🌙.</p>
+    <p align="center">
+  <img src="[ССЫЛКА_НА_ВАШ_ЛОГОТИП](https://github.com/user-attachments/assets/225f16af-ec56-47b9-98eb-4b730271e975)" alt="Poesmoother Logo" width="200">
+</p>
 </li>
 <li>
 <p><strong>🔍 Refined Visual Legibility:</strong>
